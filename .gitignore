@@ -1,0 +1,8 @@
+JobScheduler
+*.o
+*.dSYM/
+.vscode/
+.DS_Store
+
+# other iterations - not submitted yet
+JobScheduler_v*.cpp
